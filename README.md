@@ -3,7 +3,7 @@
 
 基于 vue-element-admin + openLayers 实现的地图交互实例。
 
-> React + Ant Design 的版本正在开发中，仓库地址：[openlayers--interaction-development](https://github.com/t-sinbo/openlayers--interaction-development)
+> 正在卡开发中，仓库地址：[openlayers--interaction-development](https://github.com/t-sinbo/openlayers--interaction-development)
 
 ## 前言
 研究开源地图库openLayers有感，顺便做了一些使用的地图交互小demo
